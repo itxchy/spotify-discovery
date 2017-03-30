@@ -1,0 +1,4 @@
+@media (min-width: 768px) {
+  .AlbumDisplay-container {
+    max-width: 80rem;
+    margin: 5rem auto; } }

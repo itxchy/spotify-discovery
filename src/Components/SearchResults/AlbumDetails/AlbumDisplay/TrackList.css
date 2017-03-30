@@ -1,0 +1,10 @@
+.TrackList-container {
+  margin: 2rem auto;
+  max-width: 50rem;
+  text-align: left; }
+
+.TrackList-track-row {
+  transition: ease .06s; }
+
+.TrackList-track-row:hover {
+  background: #DDD; }

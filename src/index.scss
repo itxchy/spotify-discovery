@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+@import "Components/SearchBar/SearchForm/SearchForm.scss";
+@import "Components/SearchResults/AlbumResult/AlbumResult.scss";
+@import "Components/SearchResults/AlbumDetails/AlbumDisplay/TrackList.scss";
+@import "Components/SearchResults/AlbumDetails/AlbumDisplay/AlbumDisplay.scss";

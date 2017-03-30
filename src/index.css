@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif; }
+
+@media (max-width: 768px) {
+  .SearchForm-container {
+    padding: 0 4rem; } }
+
+@media (min-width: 768px) {
+  .SearchForm-button {
+    margin-top: 3rem; } }
+
+.AlbumResult-result-cell {
+  min-height: 12rem;
+  margin-bottom: .2rem;
+  padding: .2rem 2rem 1.6rem;
+  transition: ease .06s; }
+
+.AlbumResult-result-cell:hover {
+  background: #FFF; }
+
+.TrackList-container {
+  margin: 2rem auto;
+  max-width: 50rem;
+  text-align: left; }
+
+.TrackList-track-row {
+  transition: ease .06s; }
+
+.TrackList-track-row:hover {
+  background: #DDD; }
+
+@media (min-width: 768px) {
+  .AlbumDisplay-container {
+    max-width: 80rem;
+    margin: 5rem auto; } }
