@@ -7,7 +7,7 @@ A React application to discover your favorite artists' albums on Spotify!
 
 This project was bootstrapped with `create-react-app`.
 
-You can search for artists to get a list of albums along with album details like cover art, a tracklist with song durations, and the album release date.
+You can search for artists to get a list of albums along with album details like cover art, a tracklist with song durations, and an album release date.
 
 # Live Demo
 
