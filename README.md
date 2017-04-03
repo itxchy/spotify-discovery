@@ -1,22 +1,23 @@
+[![js-semistandard-style](https://img.shields.io/badge/code%20style-semistandard-brightgreen.svg?style=flat-square)](https://github.com/Flet/semistandard)
+
+
 # Spotify Discovery
 
-Find your next favorite record with help from Spotify's API! 
+A React application to discover your favorite artists' albums on Spotify!
 
-You can search for artists, and get a list of their albums and tracks which will lead you to the music itself.
+This project was bootstrapped with `create-react-app`.
 
-This project was bootstrapped with `create-react-app`, and was coded using Semistandard style.
+You can search for artists to get a list of albums along with album details like cover art, a tracklist with song durations, and the album release date.
 
-# [Live Demo](https://intense-dusk-18548.herokuapp.com/)
+# Live Demo
 
-Give this a test drive on Heroku right [here](https://intense-dusk-18548.herokuapp.com/). 
-
-> It may take a moment for the dyno to wake up. Heroku's free servers sleep after 30 minutes without traffic.
+A demo is available at [https://spotify.matttrifilo.com](https://spotify.matttrifilo.com).
 
 # Quick Start
 
 ## Production
 
-You can serve the `build` folder using a server.
+You can serve the `build` folder from a server.
 
 ## Development
 
