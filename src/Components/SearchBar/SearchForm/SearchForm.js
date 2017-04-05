@@ -12,7 +12,7 @@ const SearchForm = ({...props, handleTypeaheadResultClick}) => (
         onSearch={props.handleSearch}
         onInputChange={props.handleSearchFormChange}
         options={props.artistData}
-        placeHolder='Which artist would you like?'
+        placeholder='Which artist would you like?'
         renderMenuItemChildren={(option, props, index) => (
           <div onClick={(evt) => handleTypeaheadResultClick(option.id)}>
             <span>{option.name}</span>
