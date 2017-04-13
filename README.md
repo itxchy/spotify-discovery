@@ -1,6 +1,5 @@
 [![js-semistandard-style](https://img.shields.io/badge/code%20style-semistandard-brightgreen.svg?style=flat-square)](https://github.com/Flet/semistandard)
 
-
 # Spotify Discovery
 
 A React application to discover your favorite artists' albums on Spotify!
@@ -23,6 +22,12 @@ You can serve the `build` folder from a server.
 
 `yarn` or `npm install` will install the dependencies.
 
-`yarn start` or `npm start` will launch the development server.
+`npm start` will launch the development server.
 
-## Thank you for the opportunity!
+`npm run watch-sass` will compile sass files into css files on every sass file change.
+
+`npm run build-css` will compile all of the sass files into css files and output each one into the same directory as its source sass file.
+
+
+
+
